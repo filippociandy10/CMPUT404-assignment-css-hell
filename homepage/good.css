@@ -1,0 +1,66 @@
+* {
+    margin: 0.5em;
+    background-color: bisque;
+}
+
+img {
+    border-radius: 25px;
+}
+div.container-profile{
+    background-color: teal;
+    padding: 20px;
+    border-radius: 25px;
+    display: flex;
+    width: 95%;
+    float: left;
+}
+div.container-professional{
+    background-color: #dadccb;
+    padding: 20px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    float: left;
+}
+
+
+div.container-profile h2, div.container-profile div, div.container-profile p{
+    margin: 0.5em;
+    background-color: teal;
+}
+
+div.container-professional h2, div.container-professional ul, div.container-professional li{
+    margin: 0.5em;
+    background-color: #dadccb;
+}
+
+div.container-hire{
+    background-color: #37b4c6;
+    padding: 20px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    float: left;
+}
+
+div.container-hire h2, div.container-hire p{
+    margin: 0.5em;
+    background-color: #37b4c6;
+}
+
+div.container-projects{
+    background-color: #cdb08a;
+    padding: 20px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    float: left;
+}
+
+div.container-projects h2, div.container-projects ul, div.container-projects li{
+    margin: 0.5em;
+    background-color: #cdb08a;
+}

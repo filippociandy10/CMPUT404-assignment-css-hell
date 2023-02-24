@@ -1,0 +1,36 @@
+* {
+    margin: 5em;
+    background-color: bisque;
+}
+h1{
+    font-size: 2em;
+    font-family: "Times New Roman", Times, serif;
+    background-color: red;
+}
+h2{
+    font-size: 1.5em;
+    font-family: "Times New Roman", Times, serif;
+    background-color: blue;
+}
+p{
+    font-size: 1em;
+    font-family: "Times New Roman", Times, serif;
+    background-color: yellow;
+}
+p.hire{
+    font-size: 1em;
+    font-family: "Times New Roman", Times, serif;
+    background-color: green;
+}
+ul,li{
+    font-size: 1em;
+    font-family: "Times New Roman", Times, serif;
+    background-color: orange;
+}
+img {
+    transform: rotate(180deg);
+}
+
+div.pattern {
+    background-color: aquamarine;
+}
